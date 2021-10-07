@@ -15,6 +15,10 @@ function App() {
       <Route path="/store" component={Store} />
       <Route path="/about" component={About} />
       <Route path="/contact-us" component={ContactUs} />
+      <Route path="/hello-store" exact component={Home} />
+      <Route path="/hello-store/store" component={Store} />
+      <Route path="/hello-store/about" component={About} />
+      <Route path="/hello-store/contact-us" component={ContactUs} />
       <Footer />
     </Router>
   );

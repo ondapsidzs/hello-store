@@ -188,12 +188,12 @@ const Navbar = () => {
         <HeroLogo to="/">Hellooo</HeroLogo>
         <HeroLinksContainer menuActive={menuActive} onClick={menuActiveToggler}>
           <HeroLinks>
-            <HeroLink to="/">Home</HeroLink>
-            <HeroLink to="/store">Store</HeroLink>
-            <HeroLink to="/about">About</HeroLink>
-            <HeroLink to="/contact-us">Contact Us</HeroLink>
+            <HeroLink to="/hello-store">Home</HeroLink>
+            <HeroLink to="/hello-store/store">Store</HeroLink>
+            <HeroLink to="/hello-store/about">About</HeroLink>
+            <HeroLink to="/hello-store/contact-us">Contact Us</HeroLink>
           </HeroLinks>
-          <HeroSignUp to="/sign-up">Sign Up</HeroSignUp>
+          <HeroSignUp to="/hello-store/sign-up">Sign Up</HeroSignUp>
         </HeroLinksContainer>
         {menuActive ? (
           <HeroXButton onClick={menuActiveToggler} />
