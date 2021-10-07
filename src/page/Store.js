@@ -174,7 +174,7 @@ const Store = () => {
     storePathname.current = location.pathname;
     setIsStorePage(true);
 
-    if (location.pathname === "/store") {
+    if (location.pathname === "/hello-store/store") {
       setIsStorePage(true);
     } else {
       if (isNaN(storePathname.current[7])) {
