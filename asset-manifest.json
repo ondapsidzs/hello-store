@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/hello-store/static/css/main.eaf92f9a.chunk.css",
-    "main.js": "/hello-store/static/js/main.70740c64.chunk.js",
-    "main.js.map": "/hello-store/static/js/main.70740c64.chunk.js.map",
+    "main.js": "/hello-store/static/js/main.58e6fab7.chunk.js",
+    "main.js.map": "/hello-store/static/js/main.58e6fab7.chunk.js.map",
     "runtime-main.js": "/hello-store/static/js/runtime-main.c611ccd8.js",
     "runtime-main.js.map": "/hello-store/static/js/runtime-main.c611ccd8.js.map",
-    "static/js/2.ff24c239.chunk.js": "/hello-store/static/js/2.ff24c239.chunk.js",
-    "static/js/2.ff24c239.chunk.js.map": "/hello-store/static/js/2.ff24c239.chunk.js.map",
+    "static/js/2.a0dc8215.chunk.js": "/hello-store/static/js/2.a0dc8215.chunk.js",
+    "static/js/2.a0dc8215.chunk.js.map": "/hello-store/static/js/2.a0dc8215.chunk.js.map",
     "index.html": "/hello-store/index.html",
     "static/css/main.eaf92f9a.chunk.css.map": "/hello-store/static/css/main.eaf92f9a.chunk.css.map",
-    "static/js/2.ff24c239.chunk.js.LICENSE.txt": "/hello-store/static/js/2.ff24c239.chunk.js.LICENSE.txt"
+    "static/js/2.a0dc8215.chunk.js.LICENSE.txt": "/hello-store/static/js/2.a0dc8215.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c611ccd8.js",
-    "static/js/2.ff24c239.chunk.js",
+    "static/js/2.a0dc8215.chunk.js",
     "static/css/main.eaf92f9a.chunk.css",
-    "static/js/main.70740c64.chunk.js"
+    "static/js/main.58e6fab7.chunk.js"
   ]
 }
